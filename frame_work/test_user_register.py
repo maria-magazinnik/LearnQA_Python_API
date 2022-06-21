@@ -1,8 +1,8 @@
 import pytest
 
 from lib.my_requests import MyRequests
-from lib.base_case import BaseCase
-from lib.assertions import Assertions
+from lib.BaseCase import BaseCase
+from lib.Assertions import Assertions
 from datetime import datetime
 
 
